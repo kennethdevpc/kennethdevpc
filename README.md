@@ -66,7 +66,7 @@ Currently i have been created two complete CRUD web projects alone, applying all
 
 ### <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-Email: **ingkeneidel@gmail.com**
+Email: **kennethdevpc@gmail.com**
 Wpp: **<a href="https://wa.link/0l2haf"> +573114035605 </a>**
 
 ## 🌐 Socials:
