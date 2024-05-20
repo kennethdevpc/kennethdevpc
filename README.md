@@ -29,20 +29,20 @@ I want share with you my skills. Enjoy it!!
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, C], ,
+   code: [PHP,Javascript, C++], ,
    technologies: {
       frontEnd: {
-         js: ["React, Redux"],
+         js: ["Angular"],
          css: ["Style Components"]
-         html:["html5"]
+         html:["html5, css"]
       },
       backEnd: {
-         js: ["Node", "Express"]
+         js: ["laravel", "Node", "Express"]
       },
       databases: ["Postgresql", "mySQL", "Sqlite"],
-      orm: ["Sequelize]
+      orm: ["Sequelize"]
    },
-   currentOccupation: ["my last big proyect is  the barberApp, open for job opportunities"]
+   currentOccupation: ["JS developer, open for job opportunities"]
 };
 ```
 
@@ -58,20 +58,20 @@ const aboutMe = {
 
 <p><em>
 
-I have experience working with technologies such as #JavaScript, #HTML, #Css, #React, #Node.js, #redux.js, #postgresql, #sequelize,#C, I also have experience in the use of tools such as socket.io, JWT, mercadopago, boostrap and others.
+I have experience working with technologies such as #PHP "Laravel #Angular #JavaScript, #postgresql, #sequelize,#C++, I also have experience in the use of tools such as socket.io, JWT, mercadopago, boostrap and others.
 
-Currently i have been created two complete CRUD web projects alone, applying all my knowledge in full stack. But I also collaborated as a full stack developer in an E-Commerce web project where products are marketed and services are offered to the client (focused on a barbershop). I have been improving my knowledge into technologies i met, just because i want to offer you great skills with the best results
+I have been work for Openceode, Dashfleet and Globaldigiops
 
 ---
 
 ### <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 Email: **kennethdevpc@gmail.com**
-Wpp: **<a href="https://wa.link/0l2haf"> +573114035605 </a>**
+Wpp: **<a href="https://wa.link/18b7vy"> +573184484423</a>**
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennethe-p-813311225/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-e-puliche-c-9a5b02272/)
 </br>
 </em></p>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenpulicorre&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
