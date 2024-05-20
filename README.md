@@ -65,7 +65,7 @@ I have been work for Openceode, Dashfleet and Globaldigiops
 
 ### <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-Email: **kennethdevpc@gmail.com**
+
 Wpp: **<a href="https://wa.link/18b7vy"> +573184484423</a>**
 
 ## 🌐 Socials:
