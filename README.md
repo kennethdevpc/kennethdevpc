@@ -74,7 +74,7 @@ Wpp: **<a href="https://wa.link/18b7vy"> +573184484423</a>**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-e-pc-9a5b02272/)
 </br>
 </em></p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethdevpc&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenpulicorre&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
