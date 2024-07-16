@@ -73,7 +73,7 @@ Wpp: **<a href="https://wa.link/18b7vy"> +573184484423</a>**
 
 </br>
 </em></p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenpulicorre&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=kenpulicorre&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
