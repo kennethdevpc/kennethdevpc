@@ -77,7 +77,7 @@ Wpp: **<a href="https://wa.link/18b7vy"> +573184484423</a>**
 2023
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenpulicorre&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=css,blade,Shell&langs_count=6)
 2024
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethdevpc&layout=compact&hide=html,vue,Blade,Pug,SCSS,Handlebars,Shell&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethdevpc&theme=bear&hide_border=false&layout=compact&hide=html,vue,Blade,Pug,SCSS,Handlebars,Shell&langs_count=6)
 
 
 <h3 align="left">Languages and Tools:</h3>
